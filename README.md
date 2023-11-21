@@ -1,5 +1,7 @@
 A short description of your project: Our project aims to explore the use of NFTs in the creative industry, leveraging blockchain technology to enable greater transparency, security, and efficiency in the creation and distribution of digital assets. We will review existing literature and use cases, develop a framework for using NFTs in the creative industry, explore the technical aspects of using blockchain technology, and apply the framework to a case study of a creative project.
 
+Added new features 11/21
+
 Changes in the project: UI changes:
 
 Swapped out button colors
